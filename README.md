@@ -1,2 +1,2 @@
 # Sea-battle
-Basic Sea Battle Game
+Basic Sea Battle Game basics using js 
